@@ -9,7 +9,7 @@ O projeto foi criado com foco em aprendizado e prática de conceitos fundamentai
 ## 🚀 Demonstração
 
 🎮 **Jogue online:**  
-https://seu-link-do-jogo.com
+https://leo-gomes-dev.github.io/game-javascript_mario/
 
 ---
 
