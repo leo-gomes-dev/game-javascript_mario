@@ -1,4 +1,4 @@
-# 🎮 Mario Game — JavaScript
+# Mario Game — JavaScript
 
 Um jogo simples inspirado no universo clássico do Mario, desenvolvido com **HTML, CSS e JavaScript puro**.
 
@@ -6,14 +6,14 @@ O projeto foi criado com foco em aprendizado e prática de conceitos fundamentai
 
 ---
 
-## 🚀 Demonstração
+# Demonstração
 
-🎮 **Jogue online:**  
+**Jogue online:**  
 https://leo-gomes-dev.github.io/game-javascript_mario/
 
 ---
 
-## 🧑‍💻 Tecnologias utilizadas
+## Tecnologias utilizadas
 
 Este projeto foi desenvolvido utilizando:
 
@@ -28,7 +28,7 @@ Este projeto foi desenvolvido utilizando:
 
 ---
 
-## 📂 Estrutura do projeto
+## Estrutura do projeto
 
 ```text
 mario-game/
